@@ -55,12 +55,6 @@
 - Python 3.9+
 - Groq API key (free)
 
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/Umar5199/intelligent-document-search.git
-cd intelligent-document-search
 
 # Install dependencies
 pip install -r requirements.txt
@@ -120,4 +114,12 @@ Deploy automatically
 
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+### Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Umar5199/intelligent-document-search.git
+cd intelligent-document-search
+
 
