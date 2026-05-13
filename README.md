@@ -4,11 +4,9 @@
 [![Groq](https://img.shields.io/badge/Groq-100000?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ## 🚀 Live Demo
 
-**👉 [https://intelligent-document-search.streamlit.app]([https://intelligent-document-search.streamlit.app](https://github.com/Umar5199/intelligent-document-search))**
-
+**👉 [Click here to try the live app!](https://huggingface.co/spaces/Umar519/intelligent-document-search)**
 ## 📖 Overview
 
 **Intelligent Document Search** is a production-ready **RAG (Retrieval-Augmented Generation)** application that allows users to upload PDF documents and ask natural language questions. The system intelligently extracts relevant information and provides accurate answers using **Groq's Llama 3.1 8B model**.
