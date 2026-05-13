@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-**👉 [https://intelligent-document-search.streamlit.app](https://intelligent-document-search.streamlit.app)**
+**👉 [https://intelligent-document-search.streamlit.app]([https://intelligent-document-search.streamlit.app](https://github.com/Umar5199/intelligent-document-search))**
 
 ## 📖 Overview
 
